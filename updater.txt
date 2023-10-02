@@ -1,18 +1,16 @@
 {
-  "kathiyawadigamer_update": [
+  "custom_update": [
     {
- "version":"1.6.8",
- "title":"New Update Available",
- "description":"New Ui And Layout
+ "version":"1.8.6",
+ "title":"Update Disponible",
+ "description":"No Updates Available
 
-Base on Panda Mouse Pro
+Please Support
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Please Watch Video And Download 
-
- Anjoy Free LifeTime ",
-"download":"https://www.youtube.com/@kathiyawadi_gamer"
+🥰🥰🥰🥰🥰 ",
+"download":"https://youtu.be/rY2otd2NacA"
 }
   ]
 }
