@@ -1,7 +1,7 @@
 {
-  "fnmods_update": [
+  "Panda_Mouse_Pro": [
     {
- "version":"9.99",
+ "version":"1.6.8.a",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
