@@ -1,15 +1,17 @@
 {
-  "custom_update": [
+  "fnmods_update": [
     {
- "version":"1.8.7",
+ "version":"9.62",
  "title":"Update Disponible",
- "description":"No Updates Available
+ "description":"RewhasApp Oficial V9.65
 
-Please Support
+Base: 2.23 1.76
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-🥰🥰🥰🥰🥰 ",
+Nuevo Systema de Actualización 
+
+ Actualización AntiBaneo disponible ",
 "download":"https://www.youtube.com/@kathiyawadi_gamer"
 }
   ]
