@@ -3,6 +3,7 @@
     {
  "version":"1.6.8.a",
  "title":"Update Disponible",
+ "cancelable":"false",
  "description":"RewhasApp Oficial V9.65
 
 Base: 2.23 1.76
