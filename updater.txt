@@ -1,18 +1,8 @@
 {
-  "Panda_Mouse_Pro": [
-    {
- "version":"1.6.8.a",
- "cancelable":"false",
- "description":"RewhasApp Oficial V9.65
-
-Base: 2.23 1.76
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-Nuevo Systema de Actualización 
-
- Actualización AntiBaneo disponible ",
-"download":"https://www.youtube.com/@kathiyawadi_gamer"
-}
-  ]
+  "update": {
+    "updateLink": "https://www.google.com",
+    "updateMessage": "mmmm ",
+    "updateTitle": "aaaaa",
+    "updateVersion": "1.1"
+  }
 }
