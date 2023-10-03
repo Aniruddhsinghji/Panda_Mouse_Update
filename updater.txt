@@ -1,8 +1,11 @@
 {
-  "update": {
-    "updateLink": "https://www.google.com",
+  "update": [
+  {
+  
+    "updateLink": "https://www.google.co.",
     "updateMessage": "mmmm ",
     "updateTitle": "aaaaa",
     "updateVersion": "1.1"
   }
+  ]
 }
