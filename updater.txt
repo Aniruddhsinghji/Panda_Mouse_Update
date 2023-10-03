@@ -2,7 +2,6 @@
   "Panda_Mouse_Pro": [
     {
  "version":"1.6.8.a",
- "title":"Update Disponible",
  "cancelable":"false",
  "description":"RewhasApp Oficial V9.65
 
