@@ -1,13 +1,12 @@
 {
   "Panda_Mouse_Pro": [
     {
- "version":"2.2.7",
- "title":"Updates Available 2.2.7",
+ "version":"2.5",
+ "title":"Updates Available 2.5",
  "description":"• No Any Virus Found
- • New Ui
- • No Need PlayStore Buy
- • Enjoy 🥰 Like And Subscribe",
-"download":"https://youtu.be/-5Cq1g33kgE"
+• No Need To Buy PlayStore
+• Video Coming Soon 🥰",
+"download":"https://www.youtube.com/channel/UC0wMGEHOcxYg0a7g1kKBpUQ?sub_confirmation=1"
 }
   ]
 }
