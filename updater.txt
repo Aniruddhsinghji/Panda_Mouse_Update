@@ -5,8 +5,10 @@
  "title":"Updates Available 2.5",
  "description":"• No Any Virus Found
 • No Need To Buy PlayStore
-• Video Coming Soon 🥰",
-"download":"https://www.youtube.com/channel/UC0wMGEHOcxYg0a7g1kKBpUQ?sub_confirmation=1"
+• Click Update Button And Watch Full Video
+• Apk Download Link Discription
+• Apk Password Protected Watch Full Video 🥰",
+"download":"https://www.youtube.com/watch?v=GQiw00LVJ2s"
 }
   ]
 }
